@@ -1,0 +1,258 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.navbar {
+	background-color: black;
+	color: #fff;
+	text-align: center;
+}
+
+.navbar p {
+	display: inline-block;
+	padding: 5px;
+}
+.navbar i {
+	letter-spacing: 12px;
+}
+.container_2 {
+	text-align: center;
+}
+.container_2 p a{
+	text-decoration: none;
+	color: black;
+}
+
+.feature {
+	display: inline-block;
+	text-align: center;
+	margin: 5px;
+}
+.feature img {
+	width: 50px;
+
+}
+.container_3 {
+	margin-top: 10px;
+	background-color: #ddd;
+	text-align: center;
+	font-size: 13px;
+}
+.container_4 {
+	text-align: center;
+	margin-top: 30px;
+}
+.container_4 h3{
+	margin-top:10px;
+}
+.container_4 h1{
+	margin-top:10px;
+}
+.container_4 h5{
+	margin-top:10px;
+	text-align: center;
+}
+.container_4 button {
+	margin-top: 10px;
+	
+	cursor: pointer;
+}
+.container_4 h4 {
+	margin-top: 20px;
+	font-weight: 200;
+}
+.container_5 {
+	text-align: center;
+	margin-top: 15px;
+}
+.container_5 button {
+	margin-top: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	color: white;
+	border-style: none;
+}
+.container_5 a{
+	margin-left: 8px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.container_6 img {
+	width: 100%;
+}
+.container_6 {
+	text-align: center;
+}
+.container_7 {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+.container_7 button {
+	margin-top: 10px;
+	border-style: none;
+	border-radius: 13px;
+	padding: 5px;
+	cursor: pointer;
+}
+.container_7 h4 {
+	margin-top: 20px;
+	font-weight: 200;
+
+}
+.container_8 {
+	text-align: center;
+	margin-top: 15px;
+	background-color: black;
+	color: white;
+}
+.container_8 button {
+	margin-top: 5px;
+	cursor: pointer;
+	color: white;
+}
+.container_8 a{
+	margin-left: 8px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.image img {
+	width: 40%;
+}
+.container_9 {
+	text-align: center;
+	margin-top: 5%;
+}
+.container_9 h2,h1 {
+	margin-top: 10px;
+	color: blue;
+}
+.container_9 h4{
+	margin-top: 10px;
+	font-weight: 200;
+}
+.main button {
+	cursor: pointer;
+	color: white;
+}
+.container_9 button {
+	margin-top: 10px;
+	cursor: pointer;
+}
+.figure img {
+	text-align: center;
+	margin-left: 50%;
+
+}
+.container_11 img {
+	text-align: center;
+	width: 80%;
+
+	border-radius: 25px;
+	border-style: none;
+}
+.container_11 {
+	text-align: center;
+	margin-top: 10px;
+	
+}
+.container_12 {
+	text-align: center;
+	margin-top: 5%;
+}
+.container_12 h1 {
+	color: black;
+} 
+.container_13 {
+	text-align: center;
+}
+.phone {
+	display: inline-block;
+}
+.container_13 button {
+	cursor: pointer;
+	color: white;
+}
+.container_13 h5{
+	font-weight: 200;
+}
+.container_13 a {
+	text-decoration: none;
+	color: black;
+	font-size: 13px;
+
+}
+.phone hr{
+	margin-top: 20px;
+	width: 90%;
+}
+
+.description i {
+	margin-top: 25%;
+}
+.description img {
+	width: 50px;
+}
+.description_1 img{
+	width: 50px;
+	margin-top: 25%;
+}
+
+.description_2 i {
+	margin-top: 25%;
+}
+
+.description_3 img {
+	width: 50px;
+	margin-top: 25%;
+}
+
+.description_4 i {
+	margin-top: 25%;
+}
+
+.description_5 img {
+	width: 50px;
+	margin-top: 25%;
+}
+
+.description_6 img {
+	width: 40px;
+	margin-top: 25%;
+}
+.container_14 {
+	text-align: center;
+	margin-top: 3%;
+}
+.container_14 a{
+	text-align: center;
+	padding-right: 3%;
+	font-size: 20;
+	color: blue;
+	text-decoration: none;
+}
+.container_15 img {
+	margin-top: 2%;
+}
+.container_15 img {
+	text-align: center;
+	width: 80%;
+}
+.container-22 img {
+	width: 80%;
+}
+.container-23 img {
+	width: 80%;
+}
+.container_20 img {
+	width: 80%;
+}
+.container_17 img {
+	width: 80%;
+}
+.navbar-nav{
+	padding-left: 15%;
+}
+
